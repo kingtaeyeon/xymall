@@ -15,5 +15,8 @@
         <module>xymall-order</module>
         <module>xymall-product</module>
         <module>xymall-ware</module>
+        <module>renren-fast</module>
+        <module>renren-generator</module>
+        <module>xymall-common</module>
     </modules>
 </project>

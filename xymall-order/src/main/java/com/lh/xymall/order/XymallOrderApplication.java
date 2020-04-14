@@ -1,4 +1,4 @@
-package com.lh.xymall.lorder;
+package com.lh.xymall.order;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
